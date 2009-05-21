@@ -1,0 +1,8 @@
+## Interface: 30100
+## Title : Scholarship
+## Notes: Plays a sound when you mouse over books for the "Higher Learning" achievement
+## Author: Jason L Perry
+## Version: 1.0
+## X-Category: Miscellaneous
+
+Scholarship.lua
