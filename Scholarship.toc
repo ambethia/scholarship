@@ -1,4 +1,4 @@
-## Interface: 30100
+## Interface: 60000
 ## Title : Scholarship
 ## Notes: Plays a sound when you mouse over books for the "Higher Learning" achievement
 ## Author: Jason L Perry
